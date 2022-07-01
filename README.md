@@ -17,28 +17,28 @@
 WE(B) + (WA)ITER = WEITER
 
 간단 설명
-
-## UI 설명
+모르는 사람이랑 엔빵하면서 직접적으로는 연결하는 장소만 제공하면 서로 믿을만한 사람인지 모르는데 그 중간다리 역할을 우리가 해주면서 신뢰감 문제를 해결해주시고 ~~~
+## UI Description
 ![](이미지 링크)
 
-## 딥러닝 모델 (CNN 알고리즘)
-![](img/cnn.png)
+## Function Description
+![](이미지 링크)
 
-## :clap:Contributor Review
+## Contributor Review
 
-- 기획 [김명찬](https://github.com/ehyeok9)
+- [기획 김명찬](https://github.com/ehyeok9)
 > 
 
-- FE [강채연](https://github.com/ehyeok9)
+- [FE 강채연](https://github.com/ehyeok9)
 > 
 
-- FE [김동윤](https://github.com/ehyeok9)
+- [FE 김동윤](https://github.com/ehyeok9)
 >
 
-- FE [김유진](https://github.com/ehyeok9)
+- [BE 김유진](https://github.com/ehyeok9)
 >
 
-- BE [이혁규](https://github.com/ehyeok9)
+- [BE 이혁규](https://github.com/ehyeok9)
 >
 
 ## How to Run?
