@@ -6,7 +6,6 @@
   <img src="https://github.com/ehyeok9/WEITER/blob/develop/nPer1/order/static/img/NARROW_BOLD.png" alt="Markdownify"></a>
   <br>
   <br>
-  <br>
 </h1>
 
 <h4 align="center">🎰 당신을 위한 웹 웨이터 🚀</h4>
