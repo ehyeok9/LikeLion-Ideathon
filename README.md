@@ -3,9 +3,9 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/ehyeok9/LikeLion-Ideathon/blob/develop/nPer1/order/static/img/logo.PNG" alt="Markdownify" width="200"></a>
+  <img src="https://github.com/ehyeok9/WEITER/blob/develop/nPer1/order/static/img/NARROW_BOLD.png" alt="Markdownify"></a>
   <br>
-  WEITER
+  <br>
   <br>
 </h1>
 
