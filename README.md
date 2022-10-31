@@ -32,13 +32,22 @@ WE(B) + (WA)ITER = WEITER
 우리는 **WE(b)iter** 입니다.   
 
 ## Function Description
+
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.PNG)
 
-## Demonstration video
+## Expectation Effectiveness
+
+타켓층 : 빌라, 기숙사, 대학교  
+
+1. 신뢰감 문제 해결 : 모르는 사람과 음식을 같이 주문할 때, WEITER가 중간다리 역할을 함으로써 신뢰감 문제 개선  
+
+2. 편리성 확대 : 단순히 채팅방 형태로 주문을 취합하면 과정이 번거롭고 실수가 생길 수 있다. 그 과정을 WEITER 게시판으로 해결.
+
+## Demonstration Video
 
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/weiter%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif)
 
