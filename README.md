@@ -37,7 +37,10 @@ WE(B) + (WA)ITER = WEITER
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.PNG)
 ![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.PNG)
-![]()
+
+## Demonstration video
+
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/weiter%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif)
 
 ## Contributor
 
@@ -55,10 +58,6 @@ WE(B) + (WA)ITER = WEITER
 
 - [BE 이혁규](https://github.com/ehyeok9)
 >
-
-## demonstration video
-
-![](https://github.com/ehyeok9/WEITER/blob/develop/img/weiter%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif)
 
 ## How to Run?
 
