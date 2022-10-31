@@ -31,12 +31,13 @@ WE(B) + (WA)ITER = WEITER
 
 우리는 **WE(b)iter** 입니다.   
 
-
-## UI Description
-![](이미지 링크)
-
 ## Function Description
-![](이미지 링크)
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG)
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.PNG)
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG)
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C9.PNG)
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C11.PNG)
+![]()
 
 ## Contributor
 
@@ -64,7 +65,6 @@ WE(B) + (WA)ITER = WEITER
 
 - Python `3.7.0`
 - Django `3.2.13`
-(사용한 라이브러리 적기)
 
 > 💡 **NOTE: you must install Django upper `3.2` due to some functions deprecated in latest version.**
   ```
