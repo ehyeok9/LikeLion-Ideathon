@@ -56,6 +56,10 @@ WE(B) + (WA)ITER = WEITER
 - [BE 이혁규](https://github.com/ehyeok9)
 >
 
+## demonstration video
+
+![](https://github.com/ehyeok9/WEITER/blob/develop/img/weiter%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif)
+
 ## How to Run?
 
 1. install following libraries.
