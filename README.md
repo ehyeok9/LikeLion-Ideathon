@@ -75,8 +75,15 @@ WE(B) + (WA)ITER = WEITER
 
 ## Install List
 
-- Python `3.7.0`
+- Python `4.0.5`
 - Django `3.2.13`
+- asgiref '3.5.2'
+- django-social-share '2.2.1'
+- idna '3.3'
+- Pillow '9.1.1'
+- requests '2.28.1'
+- sqlparse '0.4.2'
+- urllib3 '1.26.9'
 
 > 💡 **NOTE: you must install Django upper `3.2` due to some functions deprecated in latest version.**
   ```
